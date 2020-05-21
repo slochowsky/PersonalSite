@@ -258,6 +258,13 @@ input, select, textarea {
 
 		}
 
+		/* Get in touch CSS */
+
+		.labeled-icons, .contact, .test{
+ text-align: center;
+ letter-spacing: e;
+		}
+
 /* Row */
 
 	.row {
@@ -1755,14 +1762,14 @@ input, select, textarea {
 		}
 
 		.image.avatar48 {
-			width: 48px;
-			height: 48px;
-			background: #f00;
+			width: 55px;
+			height: 60px;
+			/* background: #f00; */
 		}
 
 			.image.avatar48 img {
-				width: 48px;
-				height: 48px;
+				width: 55px;
+				height: 60px;
 			}
 
 		.image.fit {
@@ -2248,7 +2255,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/dosomethinggreat.jpg");
 			}
 
 			#main > section.two {
